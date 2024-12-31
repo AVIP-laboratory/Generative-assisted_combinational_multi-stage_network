@@ -37,10 +37,12 @@ The GTNN configuration model consists of `UNet_backbone.py` and `Enhancement_net
 The `/pretrained model/` folder contains the trained models that constitute the GTNN. The trained models are saved as `.pth` file.
 
 ## Evaluation
-![fig 4](https://github.com/user-attachments/assets/80fd5865-0ae4-4f0f-9a7c-d80fc7371900)
-![table 3](https://github.com/user-attachments/assets/78cd59ac-a26e-4161-b94b-f7dda3e06901)
-![table 4](https://github.com/user-attachments/assets/c6202c31-cbdd-4064-aa2d-98102f892b6c)
-![fig 6](https://github.com/user-attachments/assets/77e2ea93-b112-4720-bcf7-0ef797187f75)
-![table 5](https://github.com/user-attachments/assets/b89ceb64-ea79-49c3-b002-9fe44b139982)
-![table 6](https://github.com/user-attachments/assets/d7c84772-abd1-41ab-9a04-9b0a67482006)
-![fig 5](https://github.com/user-attachments/assets/119fdff7-5835-4262-9ca4-f7a644572bf7)
+![table 2](https://github.com/user-attachments/assets/1cd43a65-b066-40dd-a5cd-190b1ce7fb95)
+![fig 4](https://github.com/user-attachments/assets/09ef1322-6658-4425-83c8-44db111bef63)
+![table 3](https://github.com/user-attachments/assets/70c6f556-4871-4b50-9588-35f81df20154)
+![table 4](https://github.com/user-attachments/assets/d8425cc7-1c78-4662-8ba2-cc2cdff6a523)
+![fig 5](https://github.com/user-attachments/assets/b83ac977-e3d6-4f2f-89fc-dd245c42c02b)
+![fig 6](https://github.com/user-attachments/assets/02525782-9646-4f4c-be16-2708613ad38d)
+![table 5](https://github.com/user-attachments/assets/41cf301c-0dc5-448a-9d01-f124eb532790)
+![table 6](https://github.com/user-attachments/assets/602e93d4-652f-465c-8f91-2c1b0be57d50)
+![fig 7](https://github.com/user-attachments/assets/2649bdbb-9954-4eb6-af1d-4a94798ca526)
