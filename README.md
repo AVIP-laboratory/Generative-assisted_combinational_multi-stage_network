@@ -37,4 +37,10 @@ The GTNN configuration model consists of `UNet_backbone.py` and `Enhancement_net
 The `/pretrained model/` folder contains the trained models that constitute the GTNN. The trained models are saved as `.pth` file.
 
 ## Evaluation
-
+![fig 4](https://github.com/user-attachments/assets/80fd5865-0ae4-4f0f-9a7c-d80fc7371900)
+![table 3](https://github.com/user-attachments/assets/78cd59ac-a26e-4161-b94b-f7dda3e06901)
+![table 4](https://github.com/user-attachments/assets/c6202c31-cbdd-4064-aa2d-98102f892b6c)
+![fig 6](https://github.com/user-attachments/assets/77e2ea93-b112-4720-bcf7-0ef797187f75)
+![table 5](https://github.com/user-attachments/assets/b89ceb64-ea79-49c3-b002-9fe44b139982)
+![table 6](https://github.com/user-attachments/assets/d7c84772-abd1-41ab-9a04-9b0a67482006)
+![fig 5](https://github.com/user-attachments/assets/119fdff7-5835-4262-9ca4-f7a644572bf7)
