@@ -13,8 +13,8 @@ Noise degrades image quality and can result in the loss of important information
 The relationship between the noisy image 𝑞, noise 𝑛, and high-quality image 𝑐 is defined as 𝑞=𝑛+𝑐. The noise 𝑛 is modeled as Gaussian noise, represented by $n \sim \mathcal{N}(\mu, \sigma^2)$, where $\sigma$ is the standard deviation. For training, the noise is randomly smapled within the range [10, 110] and added to high-quality images.  
   
 The train and validation dataset are structured as below:
-- Berkeley Segmentation Dataset 
-- Waterloo Exploration Database 
+- Berkeley Segmentation Dataset (https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
+- Waterloo Exploration Database (https://kedema.org/project/exploration/index.html)
 
 The test dataset is structured as below:
 - CBSD68
