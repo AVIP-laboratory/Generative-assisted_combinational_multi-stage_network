@@ -1,5 +1,5 @@
-# Generative tandem neural network
-Noise degrades image quality and can result in the loss of important information, making its removal or minimization essential. However, as noise levels increase, eliminating it becomes exponentially more challenging. This project proposes a **Generative tandem neural network (GTNN)** capable of restoring the textural details and patterns of original images lost due to extreme noise. We will keep you informed with additional details about this project.
+# Generative-assisted compositional multi-stage network
+Noise degrades image quality and can result in the loss of important information, making its removal or minimization essential. However, as noise levels increase, eliminating it becomes exponentially more challenging. This project proposes a **Generative-assisted compositional multi-stage network (GenCoNet)** capable of restoring the textural details and patterns of original images lost due to extreme noise. We will keep you informed with additional details about this project.
 ## Requirements
 - pytorch 1.21
 - Python 3.9
@@ -23,7 +23,7 @@ The test dataset is structured as below:
 
 ## Code description
 ### Models
-The GTNN configuration model consists of `UNet_backbone.py` and `Enhancement_network.py`.
+The GenCoNet configuration model consists of `UNet_backbone.py` and `Enhancement_network.py`.
 - `UNet_backbone.py` includes Noise Estimatior block and Generative transloator block.
 - `Enhancment_network.py` includes U-Net and Swin transformer based Channel-fusion enhancer block.
 ### Util for training
