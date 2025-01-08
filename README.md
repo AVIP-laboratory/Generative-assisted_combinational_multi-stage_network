@@ -24,7 +24,7 @@ The test dataset is structured as below:
 ## Code description
 ### Models
 The GenCoNet configuration model consists of `UNet_backbone.py` and `DE_block.py`.
-- `UNet_backbone.py` includes Noise Estimatior block and Generative transloator block.
+- `UNet_backbone.py` includes Noise Estimatior block and Image-to-image translator block.
 - `DE_block.py` includes U-Net and Swin transformer based Depth-fusion enhancer block.
 ### Util for training
 - `utils.py` contains basic contents required for training and evaluation, such as PSNR and SSIM calculation, and weight initialization.
