@@ -1,5 +1,5 @@
-# Generative-assisted compositional multi-stage network
-Noise degrades image quality and can result in the loss of important information, making its removal or minimization essential. However, as noise levels increase, eliminating it becomes exponentially more challenging. This project proposes a **Generative-assisted compositional multi-stage network (GenCoNet)** capable of restoring the textural details and patterns of original images lost due to extreme noise. We will keep you informed with additional details about this project.
+# Generative-assisted combinational multi-stage network
+Noise degrades image quality and can result in the loss of important information, making its removal or minimization essential. However, as noise levels increase, eliminating it becomes exponentially more challenging. This project proposes a **Generative-assisted combinational multi-stage network (GenCoNet)** capable of restoring the textural details and patterns of original images lost due to extreme noise. We will keep you informed with additional details about this project.
 ## Requirements
 - pytorch 1.21
 - Python 3.9
